@@ -40,7 +40,7 @@ Links
 from setuptools import setup
 
 
-VERSION = '0.1.0'
+VERSION = '0.1.1'
 
 INSTALL_DEPS = [
     'enum34>=1.1.2',
